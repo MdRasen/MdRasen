@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.loggedtop')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
