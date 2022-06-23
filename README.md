@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Al Amin Hossen</h1>
-<h3 align="center">Self-learner,dreamer, compassionate, tech-geek.</h3>
+<h3 align="center">Self-learner, dreamer, compassionate, tech-geek.</h3>
 
 - 🔭 I’m currently working on **Laravel**
 
