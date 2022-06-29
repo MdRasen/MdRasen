@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/MdRasen?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, PHP**
 
 - 📫 How to reach me **aamin.hossen99@gmail.com**
 
