@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **PHP, Laravel Framework**
+- 🌱 I’m currently learning **Laravel Framework along with React Js**
 
 - 👨‍💻 All of my projects are available at (https://github.com/MdRasen?tab=repositories)
 
