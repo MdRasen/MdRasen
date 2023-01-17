@@ -103,7 +103,7 @@
 ## Github Stats  
 
 
-<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdRasen&show_icons=true&count_private=true&hide_border=true" align="left" /></div> 
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdRasen&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <br/>
 
